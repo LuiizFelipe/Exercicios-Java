@@ -1,0 +1,33 @@
+/*
+ * Informar todos os números de 1000 a 1999 que quando divididos por 11
+obtemos resto = 5. (FOR)
+ */
+
+
+package lacoDeRepeticao;
+import java.util.Scanner;
+
+
+
+
+
+
+public class exercicio1 {
+
+	public static void main(String[] args) {
+		
+		
+		for (int i=1000; i < 1999; i++)
+		{
+			}
+			
+					int i = 0;
+					if(i/11 == 5); {
+		  
+
+		System.out.printf(" -->  i / 11 tem como resto 5"); 
+			        
+			    }
+	}
+			 
+}

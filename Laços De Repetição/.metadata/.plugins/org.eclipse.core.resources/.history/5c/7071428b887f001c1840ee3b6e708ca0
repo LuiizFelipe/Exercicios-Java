@@ -1,0 +1,17 @@
+
+/*
+ * Ler 10 números e imprimir quantos são pares e quantos são ímpares. (FOR)
+ */
+
+
+
+package lacoDeRepeticao;
+
+public class exercicio2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

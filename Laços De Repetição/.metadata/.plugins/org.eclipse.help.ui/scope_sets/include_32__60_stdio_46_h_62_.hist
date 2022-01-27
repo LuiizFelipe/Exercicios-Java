@@ -1,0 +1,6 @@
+#Thu Jan 27 12:38:47 BRT 2022
+expression=include <stdio.h>
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.sdk.Eclipse.master=true
+__DEFAULT__=false
